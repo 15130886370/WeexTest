@@ -1,0 +1,39 @@
+PODS:
+  - RxCocoa (3.4.0):
+    - RxSwift (~> 3.4)
+  - RxDataSources (1.0.3):
+    - RxCocoa (~> 3.0)
+    - RxSwift (~> 3.0)
+  - RxSwift (3.4.0)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+  - SnapKit (3.2.0)
+  - SocketRocket (0.5.1)
+  - Then (2.1.0)
+  - WeexSDK (0.11.0):
+    - SocketRocket
+
+DEPENDENCIES:
+  - RxCocoa (~> 3.0)
+  - RxDataSources (~> 1.0)
+  - RxSwift (~> 3.0)
+  - SDWebImage (= 3.7.5)
+  - SnapKit (~> 3.0)
+  - SocketRocket
+  - Then (~> 2.1)
+  - WeexSDK (= 0.11.0)
+
+SPEC CHECKSUMS:
+  RxCocoa: d14ef6b6029e1ddc6e966508c09289090de68ff9
+  RxDataSources: a021a0e944ba5f7991259829d973afdbfa719c0b
+  RxSwift: 3789a1af753002a14edecdb698a2424624296a9c
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+  Then: 8496793c8fcac95482b943909b440724c7d8d82c
+  WeexSDK: f9cfe6adc91fba3ca5e36bc9808bf1b6e8be2106
+
+PODFILE CHECKSUM: fd3880acbd0189473853305b739a603307c6a831
+
+COCOAPODS: 1.2.1
